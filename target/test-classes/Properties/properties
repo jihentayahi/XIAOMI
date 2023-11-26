@@ -1,0 +1,4 @@
+TestDriverPatrh = c:\\chromedriver.exe
+Web_Portal_Link=https://mistore.com.tn/
+Web_MaisonConnectee_Link=https://mistore.com.tn/product-category/maison-connectee/
+Web_Productpage_Link=https://mistore.com.tn/product/mi-compact-bluetooth-speaker-2/
